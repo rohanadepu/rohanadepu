@@ -82,13 +82,6 @@ Software Engineering | AI/ML | Data Engineering | Full-Stack Development
 | [Personal Finance Data Aggregator & Insights Platform](https://github.com/rohanadepu/-Personal-Finance-Data-Aggregator-Insights-Platform) | Airflow, Spark, PostgreSQL, Streamlit | 10M+ records, anomaly detection, forecasting, MLflow tracking |
 | [FLVision](https://github.com/rohanadepu/FLVision) | Python, Federated Learning, GANs, NIDS | Hierarchical federated learning and GAN-based intrusion detection for IoT/private networks |
 
-### GitHub Stats
-
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanadepu&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanadepu&layout=compact&theme=tokyonight&hide_border=true)
-
-### 3D Contributions
 
 ![3D Contributions](./profile-3d-contrib/profile-green-animate.svg)
 
