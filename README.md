@@ -72,7 +72,7 @@ Software Engineering | AI/ML | Data Engineering | Full-Stack Development
 | --- | --- | --- | --- |
 | Empower | Software Engineering Intern | May 2025 - Aug 2025 | API dependency graph, React, Neo4j, Node.js, TypeScript, AWS |
 | University of Missouri Columbia | AI/Cybersecurity Researcher | May 2024 - Jul 2024 | Federated learning, anomaly detection, TensorFlow, PyTorch |
-| [Ribbn](https://www.ribbn.ai) | Founder / Software Engineer | 2024 - Present | React Native, Node.js, Firebase, real-time chat, privacy-focused mobile app |
+| [Ribbn](https://www.ribbn.ai) | Software Engineer | 2024 - Present | React Native, Node.js, Firebase, real-time chat, privacy-focused mobile app |
 
 ### Featured Projects
 
