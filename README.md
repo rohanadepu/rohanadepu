@@ -72,7 +72,7 @@ Software Engineering | AI/ML | Data Engineering | Full-Stack Development
 | --- | --- | --- | --- |
 | Empower | Software Engineering Intern | May 2025 - Aug 2025 | API dependency graph, React, Neo4j, Node.js, TypeScript, AWS |
 | University of Missouri Columbia | AI/Cybersecurity Researcher | May 2024 - Jul 2024 | Federated learning, anomaly detection, TensorFlow, PyTorch |
-| Boulder Launchpad | Director of Operations | Aug 2023 - Present | Student entrepreneurship, events, operations, team leadership |
+| [Ribbn](https://www.ribbn.ai) | Founder / Software Engineer | 2024 - Present | React Native, Node.js, Firebase, real-time chat, privacy-focused mobile app |
 
 ### Featured Projects
 
@@ -86,6 +86,10 @@ Software Engineering | AI/ML | Data Engineering | Full-Stack Development
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanadepu&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanadepu&layout=compact&theme=tokyonight&hide_border=true)
+
+### 3D Contributions
+
+![3D Contributions](./profile-3d-contrib/profile-green-animate.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer)
 
