@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=Rohan%20Adepu&fontSize=56&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Engineer%20%7C%20AI%20%26%20Data%20Systems&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=Rohan%20Adepu&fontSize=56&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Engineer%20%7C%20AI%20and%20Data%20Systems&descAlignY=58&descSize=18)
 
 <div align="center">
 
