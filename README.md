@@ -80,6 +80,7 @@ Software Engineering | AI/ML | Data Engineering | Full-Stack Development
 | --- | --- | --- |
 | [Real-Time Event Streaming & Analytics Platform](https://github.com/rohanadepu/Real-Time-Event-Streaming-Analytics-Platform) | Kafka, Flink/Spark, Redis, FastAPI | 5,000+ events/sec, p95 latency under 150ms, observability with Prometheus/Grafana |
 | [Personal Finance Data Aggregator & Insights Platform](https://github.com/rohanadepu/-Personal-Finance-Data-Aggregator-Insights-Platform) | Airflow, Spark, PostgreSQL, Streamlit | 10M+ records, anomaly detection, forecasting, MLflow tracking |
+| [FLVision](https://github.com/rohanadepu/FLVision) | Python, Federated Learning, GANs, NIDS | Hierarchical federated learning and GAN-based intrusion detection for IoT/private networks |
 
 ### GitHub Stats
 
