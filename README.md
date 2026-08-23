@@ -70,6 +70,7 @@ Software Engineering | AI/ML | Data Engineering | Full-Stack Development
 
 | Organization | Role | Timeline | Focus |
 | --- | --- | --- | --- |
+| Goldman Sachs | Software Engineering Intern, HCM Engineering | May 2026 - Aug 2026 | Full-stack engineering, internal platforms, APIs, developer tooling, GitHub Copilot |
 | Empower | Software Engineering Intern | May 2025 - Aug 2025 | API dependency graph, React, Neo4j, Node.js, TypeScript, AWS |
 | University of Missouri Columbia | AI/Cybersecurity Researcher | May 2024 - Jul 2024 | Federated learning, anomaly detection, TensorFlow, PyTorch |
 | [Ribbn](https://joinribbn.org) | Co-Founder | Jan 2026 - Present | Peer-support social app for cancer patients/survivors, smart matching, private messaging, moderation |
